@@ -1,5 +1,7 @@
 # Garuda-Install
 
+YouTube video: https://www.youtube.com/watch?v=EICHVhuufVc
+
 ## Post install
 
 Update key rings
